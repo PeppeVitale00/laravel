@@ -1,2 +1,2 @@
-# laravel
+# Laravel
 This is a repo for my laravel projects
