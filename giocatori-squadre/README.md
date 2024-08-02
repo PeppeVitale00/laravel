@@ -1,4 +1,4 @@
-Piccolo progetto che ggestisece due tabelle "Giocatore" e "Squadre" in relazione N:1. Sono state implementate le operazioni CRUD. 
+Piccolo progetto che gestisce due tabelle "Giocatore" e "Squadre" in relazione N:1. Sono state implementate le operazioni CRUD. 
 
 
 
