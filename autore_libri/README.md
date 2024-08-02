@@ -1,4 +1,4 @@
-Piccolo progetto che ggestisece due tabelle "Autore" e "Libri" in relazione 1:N. Sono state implementate le operazioni CRUD. 
+Piccolo progetto che gestisce due tabelle "Autore" e "Libri" in relazione 1:N. Sono state implementate le operazioni CRUD. 
 
 
 
